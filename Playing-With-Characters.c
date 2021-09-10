@@ -6,6 +6,7 @@
 int main() 
 {
 char ch;
+    
     int MAX_LEN=256;
     char s[MAX_LEN];
     char sen[MAX_LEN];
